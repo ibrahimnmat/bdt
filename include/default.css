@@ -1,0 +1,63 @@
+body { background-color : #ffffff;}
+	
+	.content{
+	padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;
+	margin-top:10px;margin-right:10px;margin-bottom:10px;margin-left:10px;
+	background-color:#FFFFCC;
+	}
+	
+	.bottom{
+	padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;
+	margin-top:10px;margin-right:10px;margin-bottom:10px;margin-left:10px;
+	}
+	a.navlink:link{
+	color:#003366;text-decoration:none;
+	}
+	
+	a.navlink:visited{
+	color:#00336;text-decoration:none;
+	}
+	
+	a.navlink:hover{
+	color:#cccccc;text-decoration:none;
+	}
+	
+	td{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:13px;
+	vertical-align:top;
+	}
+
+	.title{
+	background-color: #000066;
+	font-size:18px;
+	font-weight:normal;
+	color:#ffffff;
+	margin-top:5px;margin-bottom:5px;margin-left:10px;
+	padding-top:5px;padding-bottom:5px;padding-left:10px;
+	}
+	tr.topdays {
+	background-color: #eaffff; font-family: Verdana, Geneva, Arial, helvetica, sans-serif; font-size: 11px; color : #000000; 
+}
+
+.toprightnumber {
+	font-family: Verdana, Geneva, Arial, helvetica, sans-serif; font-size: 10px; font-weight: bold;
+}
+.eventinbox {
+	font-family: Verdana, Geneva, Arial, helvetica, sans-serif; font-size: 10px;	
+}
+.currentdate {
+	font-family: Verdana, Geneva, Arial, helvetica, sans-serif; font-size: 17px; font-weight: bold;	
+}
+
+a:link,a:active,a:visited {
+	color : #000000; text-decoration: none; 
+}
+a:hover	{
+	text-decoration: underline; color : #000000; 
+}
+.footer {
+	font-family: Verdana, Geneva, Arial, helvetica, sans-serif; font-size: 10px;
+}
+
+
